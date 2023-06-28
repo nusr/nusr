@@ -6,4 +6,4 @@ I’m looking for a job.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nusr&langs_count=8&layout=compact)
 
-![Steve's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nusr)
+![Steve's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0653cda0-f622-4930-8974-c19a957fc488)
