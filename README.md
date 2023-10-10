@@ -8,7 +8,7 @@ I'm actively looking for a remote full stack job.
 
 ### Connect with me:
 
-<a href="https://linkedin.com/in/qi-xu-7175a5242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qi-xu-7175a5242" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/qi-xu-7175a5242" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qi-xu-7175a5242" height="30" width="40" /></a>
 
 ### Languages and Tools:
 
