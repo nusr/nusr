@@ -22,5 +22,7 @@ I'm actively looking for a remote full stack job.
 
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=nusr&)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
