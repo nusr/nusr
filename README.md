@@ -1,7 +1,6 @@
 # Hi 👋, I'm Steve Xu
 
-A passionate full stack developer from China.
-I'm actively looking for a remote full stack job.
+I'm actively looking for a remote software engineer job.
 
 - ⚡ Node.js / TypeScript / JavaScript / Go
 - 📫 How to reach me **stevexugc@gmail.com**
