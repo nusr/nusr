@@ -2,7 +2,8 @@
 
 I'm actively looking for a remote software engineer job.
 
-- ⚡ Node.js / TypeScript / JavaScript / Go
+- ⚡ JavaScript, TypeScript, CSS, HTML, React, Vue, Jest, Mocha,
+Puppeteer, Node, Golang, Kafka, Cron, MySQL, Redis, ES
 - 📫 How to reach me **stevexugc@gmail.com**
 
 ![](https://komarev.com/ghpvc/?username=nusr&color=green)
