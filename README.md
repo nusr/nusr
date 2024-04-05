@@ -10,7 +10,7 @@ Puppeteer, Node, Golang, Kafka, Cron, MySQL, Redis, ES
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nusr&langs_count=8&layout=compact)
 
-![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=nusr&show_icons=true&theme=radical)
+![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=nusr&show_icons=true)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
