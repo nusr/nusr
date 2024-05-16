@@ -1,6 +1,6 @@
 # Hi 👋, I'm Steve Xu
 
-I'm actively looking for a remote software engineer job.
+I'm actively looking for a job.
 
 - ⚡ JavaScript, TypeScript, CSS, HTML, React, Vue, Jest, Mocha,
 Puppeteer, Node, Golang, Kafka, Cron, MySQL, Redis, ES
