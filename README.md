@@ -16,7 +16,9 @@ Puppeteer, Node, Golang, Kafka, Cron, MySQL, Redis, ES
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   3 mins          ████████████▓░░░░░░░░░░░░   51.06 %
+JavaScript   2 mins          ███████████▒░░░░░░░░░░░░░   45.34 %
+JSON         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
 ```
 
 <!--END_SECTION:waka-->
