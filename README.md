@@ -16,10 +16,11 @@ Puppeteer, Node, Golang, Kafka, Cron, MySQL, Redis, ES
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   12 mins         ███████████████▓░░░░░░░░░   62.28 %
-Go         5 mins          ███████▒░░░░░░░░░░░░░░░░░   28.69 %
-YAML       1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Markdown     12 mins         █████████████▒░░░░░░░░░░░   52.67 %
+Go           5 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.89 %
+JavaScript   3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
+YAML         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
