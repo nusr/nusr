@@ -13,7 +13,4 @@ Puppeteer, Node, Golang, Kafka, Cron, MySQL, Redis, ES
 
 <!--START_SECTION:waka-->
 
-```txt
-```
-
 <!--END_SECTION:waka-->
