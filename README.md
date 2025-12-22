@@ -5,7 +5,7 @@
 
 - ⚡ JavaScript, TypeScript, CSS, HTML, React, Vue, Jest, Mocha,
 Puppeteer, Node, Golang, Kafka, Cron, MySQL, Redis, ES
-- 📫 How to reach me **stevexugc@gmail.com**
+- 📫 How to reach me **xuqiok@outlook.com**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nusr&langs_count=8&layout=compact)
 
@@ -14,7 +14,6 @@ Puppeteer, Node, Golang, Kafka, Cron, MySQL, Redis, ES
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
 ```
 
 <!--END_SECTION:waka-->
