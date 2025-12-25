@@ -5,7 +5,7 @@
 
 - ⚡ JavaScript, TypeScript, CSS, HTML, React, Vue, Jest, Mocha,
 Puppeteer, Node, Golang, Kafka, Cron, MySQL, Redis, ES
-- 📫 How to reach me **xuqiok@outlook.com**
+- 📫 How to reach me **stevexugc@outlook.com**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nusr&langs_count=8&layout=compact)
 
